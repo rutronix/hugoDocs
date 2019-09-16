@@ -1,11 +1,11 @@
-baseURL = "https://gohugo.io/"
+baseURL = "https://mohm.netlify.com"
 paginate =  100
 defaultContentLanguage = "en"
 enableEmoji = true
 # Set the unicode character used for the "return" link in page footnotes.
 footnotereturnlinkcontents = "↩"
 languageCode = "en-us"
-title = "Hugo"
+title = "SOPROTIVLENIE"
 
 
 googleAnalytics = "UA-7131036-4"
@@ -65,14 +65,14 @@ weight = 100
 [[related.indices]]
 name  = "date"
 weight = 10
-pattern = "2006"
+pattern = "1990"
 
 [social]
-twitter = "GoHugoIO"
+twitter = ""
 
 #CUSTOM PARAMS
 [params]
-  description = "The world’s fastest framework for building websites"
+  description = "Крупнейший склад резисторов"
   ## Used for views in rendered HTML (i.e., rather than using the .Hugo variable)
   release = "0.55.0-DEV"
   ## Setting this to true will add a "noindex" to *EVERY* page on the site
@@ -86,7 +86,7 @@ twitter = "GoHugoIO"
   ## Gitter URL
   gitter = "https://gitter.im/spf13/hugo"
   ## Discuss Forum URL
-  forum = "https://discourse.gohugo.io/"
+  forum = ""
   ## Google Tag Manager
   gtmid = ""
 
